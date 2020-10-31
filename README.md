@@ -42,9 +42,9 @@
   </tr>
    <tr>
     <th ></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02">نظریه زبان ها وماشین</a></th>
     <th ></th>
     <th></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02">نظریه زبان ها وماشین</a></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
