@@ -7,7 +7,7 @@
 
 - [رزومه](https://Mtaha00.github.io/)
 
-- [SOP]()
+- [SOP](https://mtaha00.github.io/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
