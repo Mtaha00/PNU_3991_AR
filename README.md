@@ -35,7 +35,7 @@
 ## رزومه های گروه
 
 1. [محمدطاها گوينده برحقي](https://Mtaha00.github.io/)
-1. [عسل كريم خراساني](https://asalkarimkhorasani.github.io/)
+1. [عسل كريم خراساني](https://asalkarimkhorasani.github.io/asalkh/)
 1. [منا اندوري](https://mona99a.github.io/resume/)
 1. [زهرا ماهان](https://zahramahan.github.io/zahra-resum/)
 1. [عرفان عطامنصوری](https://erfanata.github.io/)
