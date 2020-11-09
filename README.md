@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/Mtaha00/)
 
-- [رزومه](https://Mtaha00.github.io/)
+- [رزومه](https://mtaha00.github.io/resume/)
 
 - [SOP](https://mtaha00.github.io/SOP/)
 
