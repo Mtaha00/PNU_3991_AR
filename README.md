@@ -40,7 +40,7 @@
 1. [زهرا ماهان](https://zahramahan.github.io/zahra-resum/)
 1. [عرفان عطامنصوری](https://erfanata.github.io/)
 1. [مریم شعبانی](https://mrymsh.github.io/maryam-shabani/)
-1. [فاطمه قاسمی](https://github.com/fatemehqasemii/PNU_3991_AR)
+1. [فاطمه قاسمی](https://fatemehqasemii.github.io/)
 1. [مونا دلیر](https://mona-dalir.github.io/m.dl.github.io)
 
 ------------------
