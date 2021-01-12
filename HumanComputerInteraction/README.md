@@ -38,7 +38,7 @@
         - []()
         
    2. انتخاب موضوع کار گروهی
-        ```diff
+        
         +تحلیل سایت های فروشگاه لباس انلاین
         + [digistyle](https://www.digistyle.com/)
         + [banimode](http://banimode.com/)
