@@ -4,8 +4,11 @@
 
 
 ## دروس کارشناسی
-[1322110_01	طراحي واسط كاربر	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
-
+[1322108_01 تعامل انسان و كامپيوتر ](https://github.com/Mtaha00/PNU_3991_AR/tree/main/HumanComputerInteraction)
+<br>
+[1322110_01 طراحي واسط كاربر](https://github.com/Mtaha00/PNU_3991_AR/tree/main/UserInterfaceDesign)
+<br>
+[1115157_02 نظریه زبان ها و ماشین ](https://github.com/Mtaha00/PNU_3991_AR/tree/main/Theory%20of%20languages%20and%20machines)
 <br>
 
 ------------------------
