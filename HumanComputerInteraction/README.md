@@ -46,6 +46,7 @@
         
     3. تحلیل نیازها
         - هر دو عضو گروه یک نمونه مشابه
+        + [banimode](https://github.com/Mtaha00/PNU_3991_AR/blob/main/HumanComputerInteraction/tahlil%20homepage/tahlil%20home%20page.pdf)
         - ارائه نیازها همه گروه با هم
         ```diff
         + هر سه سایت مشکل رعایت فونت و رنگ داشتند 
@@ -70,7 +71,7 @@
         +در فوتر سایت کاربر میتواند به اکانت های سوشیال مدیای سایت دسترسی داشته باشد
     5. طرح دستی
         - [صفحه اصلی]
-            - [طرح دستی صفحه اصلی وب سایت](
+            - [طرح دستی صفحه اصلی وب سایت](https://github.com/Mtaha00/PNU_3991_AR/blob/main/HumanComputerInteraction/tarh%20dasti/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
     6. وایرفریم
          - [صفحه اصلی]
             - [HomeScreen Wireframe-pdf]()
