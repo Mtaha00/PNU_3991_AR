@@ -39,10 +39,10 @@
         
    2. انتخاب موضوع کار گروهی
         ```diff
-        + تحلیل سایت های فروشگاه لباس انلاین
-        +[digistyle](https://www.digistyle.com/)
-        +[banimode](http://banimode.com/)
-        +[modiseh](https://www.modiseh.com/)
+        +تحلیل سایت های فروشگاه لباس انلاین
+        + [digistyle](https://www.digistyle.com/)
+        + [banimode](http://banimode.com/)
+        + [modiseh](https://www.modiseh.com/)
         
     3. تحلیل نیازها
         - هر دو عضو گروه یک نمونه مشابه
