@@ -46,7 +46,7 @@
         
     3. تحلیل نیازها
         - هر دو عضو گروه یک نمونه مشابه
-        + [banimode](https://github.com/Mtaha00/PNU_3991_AR/blob/main/HumanComputerInteraction/tahlil%20homepage/tahlil%20home%20page.pdf)
+        + [تحلیل سایت banimode](https://github.com/Mtaha00/PNU_3991_AR/blob/main/HumanComputerInteraction/tahlil%20homepage/tahlil%20home%20page.pdf)
         - ارائه نیازها همه گروه با هم
         ```diff
         + هر سه سایت مشکل رعایت فونت و رنگ داشتند 
