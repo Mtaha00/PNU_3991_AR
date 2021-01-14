@@ -29,12 +29,12 @@
 ##  سیاهه ارزشیابی درس
 
 1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
+    1. [حساب گیت هاب](https://github.com/Mtaha00/) 
     2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    3. [رزومه دو زبانه](https://mtaha00.github.io/)
+    4. [SOP](https://mtaha00.github.io/SOP/)
+    5. [PNU-Ar](https://github.com/Mtaha00/PNU_3991_AR)
+    6. [JavaScript_certificate](https://github.com/Mtaha00/PNU_3991_AR/blob/main/JavaScript_certificate/cert-1024-11160403.jpg)
 2. **فعالیت های گروهی**
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
