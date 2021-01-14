@@ -1,7 +1,8 @@
 
 # Link download film erae fasl 10
 - [فیلم ارائه فصل دهم پاور پوینت](https://drive.google.com/file/d/1cml4DENPrwDWbz4ctOf2SBhdAcnfv-Pu/view?usp=sharing)
-
+##ارزیابی
+    -[فایل ارزیابی خودم](https://github.com/Mtaha00/PNU_3991_AR/tree/main/Theory%20of%20languages%20and%20machines/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C)
 ## سیاهه ارزشیابی درس
 
 <details>
