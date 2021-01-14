@@ -77,7 +77,7 @@
             - [طرح دستی صفحه اصلی وب سایت](https://github.com/Mtaha00/PNU_3991_AR/blob/main/HumanComputerInteraction/tarh%20dasti/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
     6. وایرفریم
          - [صفحه اصلی]
-            - [HomeScreen Wireframe-pdf]()
+            - [HomeScreen Wireframe](https://github.com/Mtaha00/PNU_3991_AR/tree/main/HumanComputerInteraction/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85)
     7. نمونه سازی
         - [صفحه اصلی]
             - [دیزاین صفحه اصلی وب سایت]()
