@@ -83,5 +83,7 @@
             - [دیزاین صفحه اصلی وب سایت](https://github.com/Mtaha00/PNU_3991_AR/tree/main/HumanComputerInteraction/%D9%86%D9%85%D9%88%D9%86%D9%87%201) 
     9. ارزیابی
         
-    10. ارائه    
+    10. ارائه 
+        - [صفحه اصلی]
+            - [ارائه ی کلی](https://drive.google.com/file/d/1DraJrXrI7kgefzYvYhY1YtOKbbbj8j-5/view?usp=sharing)
 </div>
