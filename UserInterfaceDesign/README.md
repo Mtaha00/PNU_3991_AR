@@ -81,5 +81,7 @@
     9. ارزیابی
         - []() 
 
-    10. ارائه    
+    10. ارائه  
+        - [صفحه اصلی]
+            - [ارائه ی کلی](https://drive.google.com/file/d/1DraJrXrI7kgefzYvYhY1YtOKbbbj8j-5/view?usp=sharing)
 </div>
