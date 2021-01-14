@@ -38,7 +38,7 @@
 2. **فعالیت های گروهی**
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
-        - []()
+        - [#university of OREGON](https://communications.uoregon.edu/content/wireframes)
         
    2. انتخاب موضوع کار گروهی
         
