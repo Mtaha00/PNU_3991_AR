@@ -42,7 +42,7 @@
         - [university of copenhagen](https://studies.ku.dk/masters/computer-science/programme-structure/recommended_studytracks/hci/)
    2. انتخاب موضوع کار گروهی
         
-        +تحلیل سایت های فروشگاه لباس انلاین
+        +تحلیل هوم پیج سایت های فروشگاه لباس انلاین
         + [digistyle](https://www.digistyle.com/)
         + [banimode](http://banimode.com/)
         + [modiseh](https://www.modiseh.com/)
