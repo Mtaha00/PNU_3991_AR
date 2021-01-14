@@ -80,12 +80,8 @@
             - [HomeScreen Wireframe](https://github.com/Mtaha00/PNU_3991_AR/tree/main/HumanComputerInteraction/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85)
     7. نمونه سازی
         - [صفحه اصلی]
-            - [دیزاین صفحه اصلی وب سایت]()
-    8. پیاده سازی
-        - []
-            - [لینک پروژه]() 
+            - [دیزاین صفحه اصلی وب سایت](https://github.com/Mtaha00/PNU_3991_AR/tree/main/HumanComputerInteraction/%D9%86%D9%85%D9%88%D9%86%D9%87%201) 
     9. ارزیابی
-        - []() 
-
+        
     10. ارائه    
 </div>
